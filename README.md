@@ -30,4 +30,4 @@ library(dplyr)
 library(MASS)
 library(lattice)
 
-# I claim no ownership of any of the above packages/libraries and do not intend to claim and rights to them.
+## I claim no ownership of any of the above packages/libraries and do not intend to claim and rights to them. ##
